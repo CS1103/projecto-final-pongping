@@ -4,7 +4,7 @@
 
 ### **Descripción**
 
-> Ejemplo: Implementación de una red neuronal multicapa en C++ para clasificación de dígitos manuscritos.
+> Implementación de una red neuronal multicapa en C++ para clasificación de dígitos manuscritos.
 
 ### Contenidos
 
@@ -26,11 +26,7 @@
 * **Grupo**: `group_3_custom_name`
 * **Integrantes**:
 
-  * Alumno A – 209900001 (Responsable de investigación teórica)
-  * Alumno B – 209900002 (Desarrollo de la arquitectura)
-  * Alumno C – 209900003 (Implementación del modelo)
-  * Alumno D – 209900004 (Pruebas y benchmarking)
-  * Alumno E – 209900005 (Documentación y demo)
+  * Ameri Ingaruca, Fabiana Antonell (202410119)  
 
 > *Nota: Reemplazar nombres y roles reales.*
 
@@ -128,34 +124,20 @@
 
 ---
 
-### 5. Trabajo en equipo
-
-| Tarea                     | Miembro  | Rol                       |
-| ------------------------- | -------- | ------------------------- |
-| Investigación teórica     | Alumno A | Documentar bases teóricas |
-| Diseño de la arquitectura | Alumno B | UML y esquemas de clases  |
-| Implementación del modelo | Alumno C | Código C++ de la NN       |
-| Pruebas y benchmarking    | Alumno D | Generación de métricas    |
-| Documentación y demo      | Alumno E | Tutorial y video demo     |
+ 
 
 > *Actualizar con tareas y nombres reales.*
 
 ---
 
-### 6. Conclusiones
+### 5. Conclusiones
 
 * **Logros**: Implementar NN desde cero, validar en dataset de ejemplo.
 * **Evaluación**: Calidad y rendimiento adecuados para propósito académico.
 * **Aprendizajes**: Profundización en backpropagation y optimización.
 * **Recomendaciones**: Escalar a datasets más grandes y optimizar memoria.
 
----
-
-### 7. Bibliografía
-
-> *Actualizar con bibliografia utilizada, al menos 4 referencias bibliograficas y usando formato IEEE de referencias bibliograficas.*
-
----
+ 
 
 ### Licencia
 
